@@ -1,6 +1,6 @@
 # Knowledge & link collection
 
-## audio
+## audio / studio
 
 
 ### rivendell
@@ -18,7 +18,6 @@
 
 - https://github.com/andyb2000/rivendell-tools
 
-
 ### liquidsoap
 
 media stream processing language https://www.liquidsoap.info/
@@ -30,6 +29,9 @@ media stream processing language https://www.liquidsoap.info/
 
 
 ### others
+
+- https://github.com/saschaludwig/OnAirScreen Raspberry Pi On Air Screen
+- https://github.com/JamesHarrison/openob The Open Outside Broadcast project for radio contribution links and studio-transmitter links. http://jamesharrison.github.com/openob/
 
 #### bbc web based editing components
 
