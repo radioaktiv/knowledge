@@ -23,7 +23,7 @@
 media stream processing language https://www.liquidsoap.info/
 - https://github.com/savonet/liquidsoap
 
-#### usage exmaples
+#### usage examples
 
 - https://github.com/LibreTime/libretime https://github.com/LibreTime/libretime/tree/master/python_apps/pypo/liquidsoap
 
