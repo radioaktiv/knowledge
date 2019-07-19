@@ -2,6 +2,14 @@
 
 ## audio / studio
 
+### jack applications
+
+- qjackctl …
+
+- aj-snapshot https://packages.debian.org/buster/aj-snapshot (automatically restoring connections)
+- zita-njbridge https://packages.debian.org/buster/zita-njbridge
+
+- ebumeter
 
 ### rivendell
 
@@ -27,11 +35,11 @@ media stream processing language https://www.liquidsoap.info/
 
 - https://github.com/LibreTime/libretime https://github.com/LibreTime/libretime/tree/master/python_apps/pypo/liquidsoap
 
-
 ### others
 
 - https://github.com/saschaludwig/OnAirScreen Raspberry Pi On Air Screen
 - https://github.com/JamesHarrison/openob The Open Outside Broadcast project for radio contribution links and studio-transmitter links. http://jamesharrison.github.com/openob/
+- http://kokkinizita.linuxaudio.org/linuxaudio/
 
 #### bbc web based editing components
 
