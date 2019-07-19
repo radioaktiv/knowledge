@@ -46,3 +46,12 @@ media stream processing language https://www.liquidsoap.info/
 - https://github.com/bbc/brave Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud
 - https://github.com/bbc/audiowaveform C++ program to generate waveform data and render waveform images from audio files https://waveform.prototyping.bbc.co.uk
 - https://github.com/bbc/peaks.js JavaScript UI component for interacting with audio waveforms https://waveform.prototyping.bbc.co.uk
+
+## hardware stuff & co
+
+### product manufacture
+- ESI Audio http://www.esi-audio.com/ Audio Interfaces (no special linux compatibility)
+- RME Audio https://www.rme-audio.de/ Audio Interfaces
+- AVT http://www.avt-nbg.de/ Audio Codecs, Telphone Hybrids
+- Sonifex https://www.sonifex.co.uk Small mixers, AoIP and much more
+- Deva Broadcast http://www.deva-ip-audio.com low cost? broadcast audio products, like FM monitors
